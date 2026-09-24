@@ -9,4 +9,4 @@ print("My Git test")
 print("Second Git test")
 print("Git is easy")
 print("MASTER VERSION 2")
-print("MASTER PRACTICE")
+print("MASTER PRACTICE")Practice Git
