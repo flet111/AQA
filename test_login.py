@@ -10,4 +10,6 @@ print("Second Git test")
 print("Git is easy")
 print("CLEAN VERSION")
 print("MASTER VERSION 2")
-print("MASTER PRACTICE")
+print("MASTER PRACTICE")Practice Git
+Second Git practice
+Git practice 3
