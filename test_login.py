@@ -11,3 +11,4 @@ print("Git is easy")
 print("MASTER VERSION 2")
 print("MASTER PRACTICE")Practice Git
 Second Git practice
+Git practice 3
